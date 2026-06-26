@@ -70,7 +70,7 @@ jupyter lab notebooks/F1_semana1.ipynb
 
 | Sección | Contenido | Indicador |
 |---|---|---|
-| Valores faltantes | Verificación MCAR (t-test), imputación mediana/moda | — |
+| Valores faltantes | Comprobación parcial consistente con MCAR (t-test sobre AGE), imputación mediana/moda | — |
 | Estadística descriptiva | Medidas de tendencia central, dispersión, histogramas, boxplots, correlaciones | ID1.2 |
 | Estimación puntual e IC | IC 95% para media de LIMIT_BAL, proporción de default, edad, facturación | ID1.3 |
 | Pruebas de hipótesis | Welch t-test (LIMIT_BAL × default), Chi-cuadrado (SEX × default, EDUCATION × default) | ID1.4 |
